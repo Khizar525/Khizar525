@@ -28,10 +28,7 @@ Node.js, Express.js, Flask, REST APIs, C#, SQL Server
 MongoDB, PostgreSQL, MySQL
 
 ### Core CS
-Data Structures & Algorithms
-Operating Systems
-DBMS
-System Design
+Data Structures & Algorithms, Operating Systems, DBMS, System Design
 
 ---
 
