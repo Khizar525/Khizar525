@@ -41,5 +41,9 @@ Data Structures & Algorithms, Operating Systems, DBMS, System Design
 - Flask + React + PostgreSQL full-stack integration
 
 ---
-
+## Currently Working On
 I am currently building AI-driven systems that combine reasoning, automation, and backend engineering.
+
+## 📫 Contact
+Email: khizar.akram.se@gmail.com
+LinkedIn: (add link here)
