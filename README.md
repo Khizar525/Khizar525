@@ -45,4 +45,4 @@ I am currently building AI-driven systems that combine reasoning, automation, an
 
 ## Contact
 - Email: khizar.akram.se@gmail.com
-- LinkedIn: (add link here)
+- LinkedIn: (https://www.linkedin.com/in/muhammad-khizar-76b83028b/)
