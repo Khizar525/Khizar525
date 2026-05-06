@@ -11,8 +11,8 @@ My background in full-stack development and backend engineering allows me to des
 ## Current Focus
 - Machine Learning & NLP
 - Agentic AI Systems
-- Resume Intelligence & ATS Optimization
-- Backend Architecture for AI Applications
+- AI-Powered Systems & Intelligent Automation
+- Scalable Backend Systems for AI Applications
 
 ---
 
