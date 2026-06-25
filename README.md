@@ -1,48 +1,106 @@
 # M. Khizar Akram
 
-## AI/ML Engineer | Agentic AI Systems | Software Engineering Student
+## AI Engineer | Agentic AI Systems | Software Engineering Student
 
-I am a Software Engineering student transitioning into AI/ML Engineering with a focus on intelligent systems and Agentic AI architectures.
+I am a Software Engineering student focused on building intelligent systems powered by AI agents, large language models, and automation workflows.
 
-My background in full-stack development and backend engineering allows me to design scalable AI-powered applications, combining system design with machine learning.
+My interests lie at the intersection of AI Engineering, backend architecture, and agent orchestration, where I design systems capable of reasoning, decision-making, and autonomous task execution.
 
 ---
 
 ## Current Focus
-- Machine Learning & NLP
-- Agentic AI Systems
-- AI-Powered Systems & Intelligent Automation
-- Scalable Backend Systems for AI Applications
+
+* Agentic AI Systems
+* Multi-Agent Architectures
+* LLM Applications & AI Automation
+* Natural Language Processing (NLP)
+* Scalable Backend Systems for AI Applications
 
 ---
 
 ## Technical Stack
 
-### AI / ML
-Python, Machine Learning, NLP, spaCy, Hugging Face, Model Integration
+### AI Engineering
 
-### Backend
-Node.js, Express.js, Flask, REST APIs, C#, SQL Server
+* OpenAI Agents SDK
+* Multi-Agent Systems
+* Function Calling
+* Guardrails
+* Prompt Engineering
+* NLP
+* spaCy
+* TF-IDF
+* Cosine Similarity
+* Scikit-learn
+* Gemini API
+* Groq API
 
-### Databases
-MongoDB, PostgreSQL, MySQL
+### Backend & Infrastructure
 
-### Core CS
-Data Structures & Algorithms, Operating Systems, DBMS, System Design
+* FastAPI
+* Flask
+* REST APIs
+* PostgreSQL
+* Redis
+* Docker
+* Git & GitHub
+
+### Programming Languages
+
+* Python
+* C#
+* Java
+* JavaScript
+* TypeScript
+
+### Computer Science Fundamentals
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* System Design
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### ONLYJOBS – AI-Powered Job Matching Platform
-- Resume parsing using spaCy (NLP)
-- ATS scoring with Hugging Face models
-- Intelligent job recommendation engine
-- Flask + React + PostgreSQL full-stack integration
+### Agent-01 — Agent Return Processing System
+
+Multi-agent workflow built using OpenAI Agents SDK for automated return processing, agent orchestration, validation, and decision-making.
+
+### ONLYJOBS — AI-Powered Job Matching Platform
+
+* Resume parsing using NLP
+* ATS scoring and candidate evaluation
+* Intelligent job matching and recommendations
+* Flask + React + PostgreSQL architecture
+
+### IntelliFlow
+
+AI-powered workflow automation platform utilizing agent-based task execution and intelligent process orchestration.
+
+### DevTrack
+
+Project and productivity management platform focused on tracking development workflows and team collaboration.
 
 ---
-I am currently building AI-driven systems that combine reasoning, automation, and backend engineering.
+
+## Currently Exploring
+
+* Agent Design Patterns
+* LangGraph
+* Advanced RAG Systems
+* AI Evaluation Frameworks
+* Production-Grade AI Infrastructure
+
+---
 
 ## Contact
-- Email: khizar.akram.se@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/muhammad-khizar-76b83028b/)
+
+* Email: [khizar.akram.se@gmail.com](mailto:khizar.akram.se@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/muhammad-khizar-76b83028b/
+
+---
+
+> Building intelligent systems that combine reasoning, automation, and scalable software engineering.
