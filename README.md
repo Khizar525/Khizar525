@@ -137,6 +137,8 @@ A production-oriented multi-agent customer support platform built using the Open
 
 **Tech Stack:** Python • OpenAI Agents SDK • FastAPI • Redis • Docker • pytest
 
+---
+
 ## ⚡ IntelliFlow v2.0.0
 
 **Team Lead + Module Owner**
@@ -155,6 +157,8 @@ An AI-powered cloud-native workflow automation platform.
 * Polly resilience patterns (retry, circuit breaker, timeout)
 
 **Tech Stack:** ASP.NET Core 8 • React 19 • TypeScript • Docker • Supabase
+
+---
 
 ## 🧠 EduRisk AI — Explainable ML Platform for Academic Risk Prediction
 
@@ -178,6 +182,8 @@ GitHub: github.com/Khizar525/EduRisk-AI (PUBLIC — production-ready platform)
 
 **Tech Stack:** Python • scikit-learn • XGBoost • SHAP • Gradio • FastAPI • Next.js
 
+---
+
 ## 💼 ONLYJOBS — AI-Powered Job Matching Platform
 
 An intelligent career assistance platform using NLP and machine learning.
@@ -192,6 +198,8 @@ An intelligent career assistance platform using NLP and machine learning.
 * Intelligent recommendations
 
 **Tech Stack:** Flask • spaCy • scikit-learn • PostgreSQL
+
+---
 
 ## 🚀 DevTrack
 
@@ -242,76 +250,8 @@ A production-ready project management API.
 
 # 📫 Contact
 
-📧 **Email**
+📧 **Email:** [khizar.akram.se@gmail.com](mailto:khizar.akram.se@gmail.com)
 
-[khizar.akram.se@gmail.com](mailto:khizar.akram.se@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/muhammad-khizar-76b83028b](https://www.linkedin.com/in/muhammad-khizar-76b83028b/)
 
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/muhammad-khizar-76b83028b/
-
-🐙 **GitHub**
-
-https://github.com/Khizar525
-
-## About
-
-This repository contains verified AI/ML engineering projects with production-ready quality, comprehensive testing, and real-world applications.
-
-### Resources
-
-[Readme](#readme-ov-file)
-
-### Uh oh!
-
-There was an error while loading. Please reload this page.
-
-[Activity](/Khizar525/Khizar525/activity)
-
-### Stars
-
-**0** stars
-
-### Watchers
-
-**0** watching
-
-### Forks
-
-[**0** forks](/Khizar525/Khizar525/forks)
-
-[Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FKhizar525%2FKhizar525&report=Khizar525+%28user%29)
-
-## [Releases](/Khizar525/Khizar525/releases)
-
-No releases published
-
-## [Packages 0](/users/Khizar525/packages?repo_name=Khizar525)
-
-### Uh oh!
-
-There was error while loading. Please reload this page.
-
-## [Contributors](/Khizar525/Khizar525/graphs/contributors)
-
-### Uh oh!
-
-There was error while loading. Please reload this page.
-
-## Footer
-
-[](https://github.com)© 2026 GitHub, Inc.
-
-### Footer navigation
-
--   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
--   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
--   [Security](https://github.com/security)
--   [Status](https://www.githubstatus.com/)
--   [Community](https://github.community/)
--   [Docs](https://docs.github.com/)
--   [Contact](https://support.github.com?tags=dotcom-footer)
--   Manage cookies
--   Do not share my personal information
-
-You can’t perform that action at this time.
+🐙 **GitHub:** [github.com/Khizar525](https://github.com/Khizar525)
